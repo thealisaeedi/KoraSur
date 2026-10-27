@@ -1,0 +1,14 @@
+<svg width="24" height="24" viewBox="0 0 48 48" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style>.ColorScheme-Text{color:#ffffff}</style>
+  <linearGradient id="a" x2="1" gradientTransform="matrix(0 -32.5937 29.6469 0 25.0628 40.2224)" gradientUnits="userSpaceOnUse">
+  <stop stop-color="#1075f6" offset="0"/>
+  <stop stop-color="#12c5ff" offset="1"/>
+ </linearGradient>
+ </defs>
+ <g fill-rule="evenodd" clip-rule="evenodd" stroke-linejoin="round" stroke-miterlimit="2">
+  <path d="m46.798 12.466c0-1.327-.526-2.598-1.464-3.536s-2.21-1.464-3.536-1.464h-35.596c-1.326 0-2.598.526-3.536 1.464s-1.464 2.209-1.464 3.536v23.073c0 1.326.526 2.597 1.464 3.535s2.21 1.465 3.536 1.465h35.596c1.326 0 2.598-.527 3.536-1.465s1.464-2.209 1.464-3.535z" fill="#0083d5"/>
+  <path d="m46.798 16.201c0-2.761-2.238-5-5-5h-18.524c-1.232 0-2.42-.454-3.337-1.276-.428-.383-.896-.804-1.324-1.187-.917-.822-2.105-1.277-3.337-1.277h-9.074c-1.326 0-2.598.527-3.536 1.465s-1.464 2.209-1.464 3.535v23.078c0 1.326.526 2.597 1.464 3.535s2.21 1.465 3.536 1.465h35.596c2.762 0 5-2.239 5-5z" fill="url(#a)"/>
+ </g>
+ <g transform="scale(2.834701)" fill="#ffffff"><path d="M6.526 5.82a.968.968 0 0 0-.97.97v4.851c0 .538.433.97.97.97h3.88c.538 0 .971-.432.971-.97V8.246L8.952 5.821zm0 .486h1.94V7.76c0 .537.433.97.97.97h1.456v2.91a.484.484 0 0 1-.485.486h-3.88a.484.484 0 0 1-.486-.486v-4.85c0-.269.216-.485.485-.485zm2.426.2 1.739 1.74H9.437a.484.484 0 0 1-.485-.485z" opacity=".15" style="paint-order:markers stroke fill"/></g>
+</svg>
